@@ -10,7 +10,7 @@ int main(){
     cin>>option;
     cout<<endl;
 
-    float n1,n2,result;
+    int  n1,n2,result;
     cout<<"Enter first number: ";
     cin>>n1;
     cout<<"Enter secound number: ";
