@@ -9,5 +9,6 @@ int main(){
     cin>>Base;
     Area=(Base*Height)/2;
     cout<<"Area of Triangle: "<<Area;
+    return 0;
 
 }
