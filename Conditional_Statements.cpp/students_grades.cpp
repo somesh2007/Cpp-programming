@@ -4,11 +4,11 @@ using namespace std;
 int main(){
     int sub1,sub2,sub3;
 
-    cout<<"Enter marks of sub1: ";
+    cout<<"Enter marks of subject1: ";
     cin>>sub1;
-    cout<<"Enter marks of sub2: ";
+    cout<<"Enter marks of subject2: ";
     cin>>sub2;
-    cout<<"Enter marks of sub3: ";
+    cout<<"Enter marks of subject3: ";
     cin>>sub3;
 
      float total = (sub1+sub2+sub3);
