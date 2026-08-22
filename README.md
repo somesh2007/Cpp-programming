@@ -5,17 +5,17 @@
 
 ---
 
-## 🚀 About This Repository
+##  About This Repository
 
 This repository contains programs and practice exercises that I create while learning **C++**.
 
 I'm using this repository to:
 
-* 🧠 Improve my problem-solving skills
-* 💻 Practice C++ programming
-* 📚 Learn Data Structures & Algorithms
-* 📈 Track my programming progress
-* 🎯 Prepare for internships and placements
+*  Improve my problem-solving skills
+*  Practice C++ programming
+*  Learn Data Structures & Algorithms
+*  Track my programming progress
+*  Prepare for internships and placements
 
 ---
 
@@ -23,19 +23,19 @@ I'm using this repository to:
 
 | #  | Topic                           |
 | -- | ------------------------------- |
-| 01 | 🔰 C++ Basics                   |
-| 02 | 🔢 Variables & Data Types       |
-| 03 | ⌨️ Input & Output               |
-| 04 | ➕ Operators                     |
-| 05 | 🔀 Conditional Statements       |
-| 06 | 🔁 Loops                        |
-| 07 | ⚙️ Functions                    |
-| 08 | 📦 Arrays                       |
-| 09 | 🔤 Strings                      |
-| 10 | 👉 Pointers                     |
-| 11 | 🏗️ Object-Oriented Programming |
-| 12 | 🌳 Data Structures              |
-| 13 | 🧩 Algorithms                   |
+| 01 |  C++ Basics                   |
+| 02 |  Variables & Data Types       |
+| 03 |  Input & Output               |
+| 04 |  Operators                     |
+| 05 |  Conditional Statements       |
+| 06 |  Loops                        |
+| 07 |  Functions                    |
+| 08 |  Arrays                       |
+| 09 |  Strings                      |
+| 10 |  Pointers                     |
+| 11 |  Object-Oriented Programming |
+| 12 |  Data Structures              |
+| 13 |  Algorithms                   |
 | 14 | 🧠 Problem Solving              |
 
 ---
@@ -47,15 +47,15 @@ Cpp-programming/
 │
 ├── 📄 README.md
 │
-├── 🔰 Basics/
-├── 🔀 Conditional_Statements/
-├── 🔁 Loops/
-├── ⚙️ Functions/
-├── 📦 Arrays/
-├── 🔤 Strings/
-├── 🏗️ OOP/
-├── 🌳 Data_Structures/
-└── 🧩 Algorithms/
+├──  Basics/
+├──  Conditional_Statements/
+├──  Loops/
+├──  Functions/
+├──  Arrays/
+├──  Strings/
+├──  OOP/
+├──  Data_Structures/
+└──  Algorithms/
 ```
 
 ---
@@ -69,11 +69,11 @@ Cpp-programming/
 
 ---
 
-## 📈 Learning Progress
+##  Learning Progress
 
 I'm continuously adding new programs and topics as I improve my understanding of **C++, Data Structures, Algorithms, and problem solving**.
 
-> 🚧 This repository is a work in progress.
+>  This repository is a work in progress.
 
 ---
 
@@ -88,4 +88,4 @@ I'm continuously adding new programs and topics as I improve my understanding of
 
 ---
 
-⭐ **Thanks for visiting my repository!**
+ **Thanks for visiting my repository!**
