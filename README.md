@@ -26,17 +26,15 @@ I'm using this repository to:
 | 01 |  C++ Basics                   |
 | 02 |  Variables & Data Types       |
 | 03 |  Input & Output               |
-| 04 |  Operators                     |
+| 04 |  Operators                    |
 | 05 |  Conditional Statements       |
 | 06 |  Loops                        |
 | 07 |  Functions                    |
 | 08 |  Arrays                       |
 | 09 |  Strings                      |
 | 10 |  Pointers                     |
-| 11 |  Object-Oriented Programming |
-| 12 |  Data Structures              |
-| 13 |  Algorithms                   |
-| 14 | 🧠 Problem Solving              |
+| 11 |  Object-Oriented Programming  |
+| 14 | 🧠 Problem Solving            |
 
 ---
 
@@ -47,15 +45,21 @@ Cpp-programming/
 │
 ├── 📄 README.md
 │
-├──  Basics/
-├──  Conditional_Statements/
-├──  Loops/
-├──  Functions/
-├──  Arrays/
-├──  Strings/
-├──  OOP/
-├──  Data_Structures/
-└──  Algorithms/
+├── 📁 Basics/
+│
+├── 📁 Conditional_Statements/
+│
+├── 📁 Loops/
+│
+├── 📁 Arrays/
+│
+├── 📁 Pointers/
+│
+├── 📁 Strings/
+│
+├── 📁 Functions/
+│
+└── 📁 OOP/
 ```
 
 ---
